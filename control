@@ -1,0 +1,9 @@
+Package: com.den.iglog1n
+Name: iGLog1n
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: MrDeNsor
+Author: MrDeNsor
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
